@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "💻 My Journey",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -29,28 +29,50 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+        lightMode: { // Default Light Theme
+          light: "#faf8f8", // Background
+          lightgray: "#e5e5e5", // Search bar, Lines
+          gray: "#b8b8b8", // Reading time text
+          darkgray: "#4e4e4e", // Text, icons
+          dark: "#2b2b2b", // Titles, Table of contents, Index
+          secondary: "#284b63", // Tags, Urls, Links, Website Header
+          tertiary: "#84a59d", // Graph nodes
+          highlight: "rgba(143, 159, 169, 0.15)", // Tags background
+          textHighlight: "#fff23688", // IDK
         },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+        // lightMode: { // Default Light Theme
+        //   light: "#faf8f8", // Background
+        //   lightgray: "#e5e5e5", // Search bar, Lines
+        //   gray: "#b8b8b8", // Reading time text
+        //   darkgray: "#4e4e4e", // Text, icons
+        //   dark: "#2b2b2b", // Titles, Table of contents, Index
+        //   secondary: "#284b63", // Tags, Urls, Links, Website Header
+        //   tertiary: "#84a59d", // Graph nodes
+        //   highlight: "rgba(143, 159, 169, 0.15)", // Tags background
+        //   textHighlight: "#fff23688", // IDK
+        // },
+        darkMode: { // DarkBlue Theme
+          light: "#2A3033", // Background
+          lightgray: "rgba(82, 109, 130, 1)", // Search bar, Lines
+          gray: "rgba(82, 109, 130, 1)", // Reading time text
+          darkgray: "rgba(221, 230, 237, 1)", // Text, icons
+          dark: "rgba(221, 230, 237, 1)", // Titles, Table of contents, Index
+          secondary: "rgba(157, 178, 191, 1)", // Tags, Urls, Links, Website Header
+          tertiary: "rgba(82, 109, 130, 1)", // Graph nodes
+          highlight: "rgba(143, 159, 169, 0.15)", // Tags background
+          textHighlight: "#b3aa0288", // IDK
         },
+        // darkMode: { // Default Dark Theme
+        //   light: "#161618",
+        //   lightgray: "#393639",
+        //   gray: "#646464",
+        //   darkgray: "#d4d4d4",
+        //   dark: "#ebebec",
+        //   secondary: "#7b97aa",
+        //   tertiary: "#84a59d",
+        //   highlight: "rgba(143, 159, 169, 0.15)",
+        //   textHighlight: "#b3aa0288",
+        // },
       },
     },
   },

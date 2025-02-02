@@ -1,9 +1,16 @@
+---
+title: Welcome to My Journey
+---
 **André Rijo – Software Developer & Technology Enthusiast** 🚀
 ### **About Me**
 
-I’m a **Software Developer** passionate about building cutting-edge solutions across different operating systems, from **Windows to Linux to macOS**. I thrive in collaborative environments and continuously seek new challenges to expand my knowledge.  
+I’m a **Software Developer** passionate about building cutting-edge solutions across different operating systems, from **Windows to Linux to macOS**. I thrive in collaborative environments and continuously seek new challenges to expand my knowledge.
 
 > * #CodeWithoutLimits #NeverStopLearning #TeamworkMakesTheDreamWork*  
+
+I love exploring and learning about new technologies across different fields of expertise. Beyond software development, I enjoy working with **servers, deployments, and managing infrastructure**. While not my primary focus, I also have an interest in **digital design** and **photography**, capturing moments through a creative lens.
+
+> * #EnvoyTheSmallThings *
 
 ---
 
@@ -43,22 +50,7 @@ I’m a **Software Developer** passionate about building cutting-edge solutions 
 
 ---
 
-### **Skills**  
-
-#### **Hard Skills**  
-✔ **Programming:** C#, ASP.NET Core, AngularJS, Xamarin  
-✔ **Infrastructure & Server Management:** Windows Server, Docker, RabbitMQ  
-✔ **Cloud Computing & Data Analytics**  
-
-#### **Soft Skills**  
-✔ Problem-Solving  
-✔ Team Collaboration  
-✔ Adaptability  
-✔ Continuous Learning  
-
----
-
 ### **Connect with Me**  
-📧 Email: **andreortizrijo+linkedin@gmail.com**  
+📧 Email: **andreortizrijo@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/andreortizrijo](https://www.linkedin.com/in/andreortizrijo)  
 💻 GitHub: [github.com/andreortizrijo](https://github.com/andreortizrijo)  
