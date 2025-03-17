@@ -68,8 +68,8 @@ By integrating the SOLID principles into software design and development, develo
 
 ## References
 
-- [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)
-- [Babara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov)
-- [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
-- [Principles of Software Development: SOLID, DRY, KISS, and more](https://scalastic.io/en/solid-dry-kiss/)
-- [O que é SOLID: O guia completo para você entender os 5 princípios da POO](https://medium.com/desenvolvendo-com-paixao/o-que-é-solid-o-guia-completo-para-você-entender-os-5-princípios-da-poo-2b937b3fc530)
+- [Wikipedia, Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)
+- [Wikipedia, Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov)
+- [Samue Oloruntoba & Anish Singh Walia, SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [Jean-Jerome Levy, Principles of Software Development: SOLID, DRY, KISS, and more](https://scalastic.io/en/solid-dry-kiss/)
+- [João Roberto da Paixão, O que é SOLID: O guia completo para você entender os 5 princípios da POO](https://medium.com/desenvolvendo-com-paixao/o-que-é-solid-o-guia-completo-para-você-entender-os-5-princípios-da-poo-2b937b3fc530)
